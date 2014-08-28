@@ -1,4 +1,4 @@
-module SimpleTable
+module SimpleTables
   class PivotTable < Hash
     def initialize
       self.default=0

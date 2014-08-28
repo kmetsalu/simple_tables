@@ -1,4 +1,4 @@
-module SimpleTable
+module SimpleTables
   class Table
     attr_reader :data
 
