@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = SimpleTables::VERSION
   spec.authors       = ["Kristjan Metsalu"]
   spec.email         = ["kristjan.metsalu@ut.ee"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{ Simple gem that enables to create table and out of that PivotTable}
+  spec.description   = %q{ Simple gem that enables to create table and out of that PivotTable to summarize data. }
+  spec.homepage      = "https://github.com/kmetsalu/simple_tables"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
